@@ -1,7 +1,7 @@
 @extends('layouts.master')
 @section('title','Vicent')
 @section('header')
- PINTOR
+ 
 @stop
 @section('navbar')
 @show
